@@ -21,6 +21,7 @@
     <div class="flex justify-between gap-14 text-lg text-white">
         <a href="/" class="transition duration-300 hover:text-blue-500">Home</a>
         <a href="/coffee" class="transition duration-300 hover:text-blue-500">Coffee</a>
+        <a href="/cute" class="transition duration-300 hover:text-blue-500">Cute photos</a>
         <a href="/about" class="transition duration-300 hover:text-blue-500">About</a>
     </div>
     <!-- default is false, so day.svg should show. opposites. -->

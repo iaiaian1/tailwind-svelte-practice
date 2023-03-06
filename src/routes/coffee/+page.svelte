@@ -3,6 +3,7 @@
      * @type {{ fetchedData: any; }}
      */
      export let data;
+
 </script>
 
 <div class=" dark:text-white">
@@ -18,4 +19,5 @@
             <br>
         {/each}
     </div>
+    
 </div>
